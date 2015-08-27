@@ -84,3 +84,8 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] ) {
 	?>
 
 </li>
+
+
+
+
+
